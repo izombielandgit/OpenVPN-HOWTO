@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](1. HOWTO.md)
+* [1. HOWTO](1. HOWTO.md)
