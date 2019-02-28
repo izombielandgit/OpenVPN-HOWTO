@@ -4,7 +4,6 @@
         "-highlight",
         "prism",
         "-lunr",
-        "search-jieba",
         "expandable-chapters"
     ],
     "pluginsConfig": {
