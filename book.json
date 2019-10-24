@@ -2,15 +2,10 @@
     "plugins": [
         "anchors",
         "-highlight",
-        "prism",
         "-lunr",
         "expandable-chapters"
     ],
     "pluginsConfig": {
-        "prism": {
-            "css": [
-                "prismjs/themes/prism-solarizedlight.css"
-            ]
         }
     }
 }
