@@ -1,9 +1,6 @@
 {
     "plugins": [
-        "anchors",
-        "-highlight",
-        "-lunr",
-        "expandable-chapters"
+        "anchors"
     ],
     "pluginsConfig": {
         }
